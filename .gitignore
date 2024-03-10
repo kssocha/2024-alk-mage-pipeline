@@ -170,3 +170,6 @@ scratch*
 /mage_data*
 *secrets*.json
 your-first-project
+
+# Ignore gcp key
+mage-ai.json
